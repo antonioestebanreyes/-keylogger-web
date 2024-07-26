@@ -1,0 +1,61 @@
+.offerCategory div img{
+width: 90px;
+height: 90px;
+cursor:pointer;
+} 
+
+.bank div img{
+    width: 300px;
+    height: 240px;
+    cursor: pointer;
+}
+
+ .MainProduct div h3{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+
+}
+
+.Product img{
+    width: 200px;
+    height: 200px;
+}
+.MostSearched, .shoe .oferta{
+    cursor: pointer;
+}
+.MostSearched div .card .card-body span, .shoe .card .card-body span{
+color: blue;
+}
+
+
+
+    .MostSearched sub,.shoe .card .card-body sub {
+       color: green;
+        
+        }
+        .offer div{
+           margin-top: 100px;
+            
+           
+ 
+         }
+
+        .offer div img {
+           width: 240px;
+           margin: 10px;
+          
+
+        }
+        .offer div  h2 ,.shoe div h2,.shoe div h3{
+            text-align: center;
+            font-weight: lighter;
+           
+            
+
+        }
